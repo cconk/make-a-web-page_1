@@ -1,0 +1,33 @@
+h1{
+  border-style: solid;
+  text-align: center;
+}
+h2{
+  color: Green;
+  text-transform: uppercase;
+}
+.style_test{
+    color: blue;
+    margin: 20px;
+}
+li {
+  line-height: 44px;
+}
+.external_links{
+  color: blue;
+}
+h3{
+  margin: 10px;
+}
+p{
+  margin: 30px;
+}
+dl{
+  margin: 50px;
+}
+ol{
+  margin: 50px;
+}
+.lesson{
+  background-color: rgba(0,0,0,.3);
+}
